@@ -5,9 +5,9 @@ import { RegistrarseComponent } from './registrarse/registrarse.component';
 import { RecuperarContraComponent } from './recuperar-contra/recuperar-contra.component';
 
 const routes: Routes = [
-  {path:'',component:LoginComponent},
+  {path:'login',component:LoginComponent},
   {path:'registrarse',component:RegistrarseComponent},
-  {path:'',component:RecuperarContraComponent}
+  {path:'recuperar',component:RecuperarContraComponent}
 ];
 
 @NgModule({
