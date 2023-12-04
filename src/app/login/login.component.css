@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(206, 199, 206)
+}
+.login{
+    margin-top: 20% !important;
+}
+.boton{
+    margin-top: 10%;
+    background-color: rgb(163, 120, 163) !important;
+ 
+}
+
+.contenido{
+    border-radius: 3% !important;
+}
+
+.clave{
+    color: rgb(163, 120, 163) !important;
+}
+.clave:hover{
+    color:  rgb(142, 84, 142) !important;;
+}
